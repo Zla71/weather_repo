@@ -4,6 +4,11 @@ Europe:
   - Paris
   - Madrid
   - Rome
+  - Warsaw
+  - Moscow
+  - Tallinn
+  - Helsinki
+  - Pristina
 
 North_America:
   - Washington, D.C
@@ -17,12 +22,23 @@ South_America:
   - Lima
   - Montevideo
   - Buenos Aires
+  - Santiago
+  - Sucre
+  - Quito
+  - Paramaribo
 
 Africa:
   - Algiers
   - Cairo
   - Mbabane
   - Asmara
+  - Maseru
+  - Tripoli
+  - Nouakchott
+  - Abuja
+  - Tehran
+  - Bishkek
+  - Kuala Lumpur
 
 Asia:
   - Bangkok

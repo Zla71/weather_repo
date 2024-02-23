@@ -1,0 +1,33 @@
+Europe:
+  - Sofia
+  - Berlin
+  - Paris
+  - Madrid
+  - Rome
+
+North_America:
+  - Washington, D.C
+  - Mexico City
+  - Havana
+  - Nassau
+
+South_America:
+  - Bogota
+  - Caracas
+  - Lima
+  - Montevideo
+  - Buenos Aires
+
+Africa:
+  - Algiers
+  - Cairo
+  - Mbabane
+  - Asmara
+
+Asia:
+  - Bangkok
+  - Beijing
+  - Abu Dhabi
+  - Dili
+  - Hanoi
+  - Tokyo
